@@ -1,4 +1,4 @@
-# CNN-Assignment
+# CNN
 
 
 1.	Convolution Neural Network
