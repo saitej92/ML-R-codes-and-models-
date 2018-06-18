@@ -30,5 +30,4 @@ h)	Fully connected output layer with 10 units and a softmax activation function.
 v.	Run the model for 2 epochs and print the accuracy.
 
 
-## *Nb: You are required to submit both Rmd file and HTML/PDF*
 
